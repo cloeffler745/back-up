@@ -1,0 +1,9 @@
+zgrep -H -m 1 ">" GCF_000158095.2_ASM15809v2_genomic.fna.gz > file.txt
+zgrep -H -m 1 ">" GCF_000762875.2_ASM76287v2_genomic.fna.gz >> file.txt
+zgrep -H -m 1 ">" GCF_000763135.2_ASM76313v2_genomic.fna.gz >> file.txt
+zgrep -H -m 1 ">" GCF_000765745.2_ASM76574v2_genomic.fna.gz >> file.txt
+zgrep -H -m 1 ">" GCF_000765805.2_ASM76580v2_genomic.fna.gz >> file.txt
+zgrep -H -m 1 ">" GCF_000765905.2_ASM76590v2_genomic.fna.gz >> file.txt
+zgrep -H -m 1 ">" GCF_000826065.2_Tessaracoccus_massiliensis_SIT6_genomic.fna.gz >> file.txt
+zgrep -H -m 1 ">" GCF_002075285.3_ASM207528v3_genomic.fna.gz >> file.txt
+zgrep -H -m 1 ">" GCF_900128725.1_BCifornacula_v1.0_genomic.fna.gz >> file.txt

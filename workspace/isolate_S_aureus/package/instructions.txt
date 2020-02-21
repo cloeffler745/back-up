@@ -1,0 +1,22 @@
+This package finds and gathers all the references for S. aureus and it's strains. 
+
+To run call:
+./s_aureus_get.sh
+
+The requirements are the: 
+- Text files: 
+	- genome_lineage
+	- species_EnsemblBacteria.txt
+	- assembly_summary_bacteria.txt
+- Python files: 
+	- path_getter.py
+- access to the SQL database new_bacteria_stats.db
+
+It is suggested that you run this code on a screen as this process may take over thirty minutes to complete depending on the size of the SQL database and the number of listed entried for S. aureus.
+
+
+ORDER MATTERS!
+
+If you plan to edit the code, please note that the order of searches done for each database matters. Currently, the program starts with a grep search through the metadata for PATRIC, then REFSEQ, and finally ENSEMBL. The python code (path_getter.py) expects the text file generated from this process to proceed in that order as well. If that expectation is not met, the code will still run, but you will not get all the files.
+
+IF more databases are added, be sure to append the appropriate lines to the end of the code blocks and edit each block appropriately being wary of order.

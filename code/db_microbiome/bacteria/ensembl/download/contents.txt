@@ -1,0 +1,17 @@
+get_bact.sh
+- this file holds one line of code. It will retrieve all ensembl bacterial references whose file name ends in 'dna.toplevel.fa.gz', but it will not pull it out of the directories, you must do that yourself. This line takes over 1day to run, so run it on a screen.
+INFORMATION GIVEN IN LAST TWO LINES:
+
+FINISHED --2019-07-01 02:54:31--
+Downloaded: 88098 files, 96G in 1d 23h 27m 22s (588 KB/s)
+
+move_files.sh
+- the get_bact.sh code has all the files you want in a thousand subfolders. This code will pull all the files you want out and place into a single directory called "single_files" NOTE: the directory must already exist, and the directory "fasta" must be in the same directory as "single_files". It is in that directory that you run this code.
+
+
+
+
+
+
+
+end of file

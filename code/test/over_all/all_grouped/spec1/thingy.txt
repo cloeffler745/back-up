@@ -1,0 +1,13 @@
+# BLASTN 2.6.0+
+# Query: chromosome1.spec1.data1
+# Database: User specified sequence set (Input: spec1.data2.fasta)
+# Fields: query id, subject id, % identity, query length, alignment length, mismatches
+# 1 hits found
+chromosome1.spec1.data1	chromosome1.spec1.data2	98.684	76	76	0
+# BLASTN 2.6.0+
+# Query: chromosome2.spec1.data1
+# Database: User specified sequence set (Input: spec1.data2.fasta)
+# Fields: query id, subject id, % identity, query length, alignment length, mismatches
+# 1 hits found
+chromosome2.spec1.data1	chromosome2.spec1.data2	100.000	76	76	0
+# BLAST processed 2 queries

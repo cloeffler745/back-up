@@ -1,0 +1,16 @@
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_000146915.1_ASM14691v2_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Stano2_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_000146045.2_R64_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Sacce1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_000304475.1_Ka_CBS2517_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Kazaf1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_001653235.2_ASM165323v2_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Pocchl1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_000184455.2_ASM18445v3_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Aspor1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_000002945.1_ASM294v2_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Schpo1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_003054445.1_ASM305444v1_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Pickud1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_000243375.1_ASM24337v1_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Torde1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_000328475.2_Umaydis521_2.0_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Ustma2_2_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_000187245.1_Hansenula_2_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Ogapa1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_900007375.1_ASM90000737v1_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Fusven1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_000303195.2_FP7_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Fusps1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_000026365.1_ASM2636v1_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Zygro1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_000002525.2_ASM252v1_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Yarli1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_000006445.2_ASM644v2_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Debha1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/NCBI/GCF_000182965.3_ASM18296v3_genomic.fna.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Canalb1_AssemblyScaffolds_Repeatmasked.fasta.gz

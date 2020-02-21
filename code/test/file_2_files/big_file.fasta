@@ -1,0 +1,21 @@
+>LINE1|1025 NICK
+THIS IS THE FIRST LINE OF TWO IN SEGMENT 1025
+THIS IS THE SECOND LINE OF TWO IN SEGMENT 1025
+>LINE2|1025 NICK
+THIS IS THE FIRST LINE IN THE SECOND CONTIG OF 1025
+THIS IS THE SECOND LINE IN THE SECOND CONTIG OF 1025
+>LINE1|1517 PIKA
+THIS IS THE FIRST LINE ONLY CONTIG FOR 1517
+THIS IS THE LAST LINE IN THE ONLY CONTIG OF 1517
+>LINE1|poop doop
+djskjfhdkjshfjkdshfkjdhslfhlshf
+fdhskjfhdsjkfhdsafhlskljahfjdgsf
+fhdskjfhlkdashfjdsgagfgdgsa
+fhdsjflhdsajlkfghj
+sddahfjdshfkldshajflgsd
+>LINE2|poop doop
+fdkslfjhdjslahflqwhqfjlewhfq1
+fdshfjkdslgfjdsahfsdjklfldsah2
+fdjskflahdsfkjldshajfldsajl3
+fdhsjfkldsflsdagfhkdfsgdaj4
+fhdsjkfhdaslfgwelugfuewlhfuliegwfywg5

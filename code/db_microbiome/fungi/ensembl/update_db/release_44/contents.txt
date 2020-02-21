@@ -1,0 +1,20 @@
+The one function listed in this directory is code that would update the ensembl database. 
+
+The code is unfinished. I stopped when I realized that ensembl changed all their filenames on the update. 
+
+If there is need for this again, the file in this directory is the working code. In directory works/ holds code that has been unit tested and works. 
+Think of the code in works being the history of the code. But it only showed the parts where the code ran without any issues. Use these to reference
+in case you change the code and it stops working.
+
+My plan of attack was: 
+- remove db entries that are not in updates
+- check the matched entries and perform changes as necessary
+- insert the new entries as usual
+
+
+
+
+
+
+
+eod

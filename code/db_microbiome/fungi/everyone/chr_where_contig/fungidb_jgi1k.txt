@@ -1,0 +1,7 @@
+/u/home/c/cloeffle/scratch/fungi/fungiDB/files/FungiDB-41_PjiroveciiSE8_Genome.fasta.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Pneji1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/fungiDB/files/FungiDB-41_AnidulansFGSCA4_Genome.fasta.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Aspnid1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/fungiDB/files/FungiDB-41_Spombe972h_Genome.fasta.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Schpo1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/fungiDB/files/FungiDB-41_YlipolyticaCLIB89W29_Genome.fasta.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/YarliYB567_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/fungiDB/files/FungiDB-41_ScerevisiaeS288c_Genome.fasta.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/SacceYB210_1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/fungiDB/files/FungiDB-41_NcrassaOR74A_Genome.fasta.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Neucr_trp3_1_AssemblyScaffolds_Repeatmasked.fasta.gz
+/u/home/c/cloeffle/scratch/fungi/fungiDB/files/FungiDB-41_Ccinereaokay7-130_Genome.fasta.gz	/u/home/c/cloeffle/scratch/fungi/JGI/4_4_2019/single_files_genomes/Coprinopsis_cinerea.masked.fasta.gz

@@ -1,0 +1,2 @@
+chromosome1.spec1.data1	chromosome1.spec1.data2	98.684	76	76	0
+chromosome2.spec1.data1	chromosome2.spec1.data2	100.000	76	76	0

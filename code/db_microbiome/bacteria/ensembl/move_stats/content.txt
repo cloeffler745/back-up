@@ -1,0 +1,1 @@
+The code in this file moves already generated statistics (from previously run code) into the new sql database. The DBNAME value changes from ENSEMBLE to ENSEMBL. 

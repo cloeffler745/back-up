@@ -1,0 +1,3 @@
+terminate called after throwing an instance of 'std::bad_alloc'
+  what():  std::bad_alloc
+/work/UGE/8.0.1/hoffman2/spool/n7005/job_scripts/3746427: line 1:  9034 Aborted                 (core dumped) ~/project/anaconda2/bin/python get_distance.py 1k.fasta ncbi.fasta

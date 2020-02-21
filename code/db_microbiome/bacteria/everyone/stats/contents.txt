@@ -1,0 +1,33 @@
+filepaths.list  
+- The list of filepaths for all the reference sequences for each database for bacteria. This is needed in order for bact_stats.py to run appropriatly. The code to get this necesssary file is a comment in bact_stats.py
+
+run_this.sh                
+- calls 'python bact_stats.py' in the qsub
+
+stats_helper_functions.pyc
+- This was created for some other purpose, but is (in essence) the exact same as stats_helper_functions.py
+
+
+
+bact_stats.py                
+- Counts contigs, chromosomes, plasmids, and mitochondrial sequences. Also gets min, max, and avg length of these four sequence types within each file and places the values in the appropriate row in the sql database. (the data base should already exist).
+
+
+og_bact_stats.py  
+- The originial code before it was altered to be better in bact_stats.py
+
+
+
+stats_helper_functions.py  
+- The helper functions that are called in bact_stats.py and redu_bact_stats.py
+
+testing.py
+- A testing space for new strategies and code. Nothing important in here.
+
+
+
+
+
+
+
+eof

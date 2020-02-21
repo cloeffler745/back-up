@@ -1,0 +1,4 @@
+This code isolates taxid and filename from "species.txt" and inserts these two values into fungi.db as GIVENTAXID and FILENAME respectively.
+
+best_handle.py 
+- Finds strain, species, and genus scientific names and universal taxids and puts each into their respective columns

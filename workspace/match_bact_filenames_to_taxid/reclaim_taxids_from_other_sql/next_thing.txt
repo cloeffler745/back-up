@@ -1,0 +1,9 @@
+I think the next step for the sql table is including two lineage columns. One for the names and the other for the taxids, just like patric does (I found this very helpful when searching and it would be good to have in the final master database).
+
+We will still need genus and species and "strain" taxids. For us "strain" will be the most specific taxanomic rank below species (if the database specifies it specifically we need to only compare to other sequences that have been categorised at that level as well). 
+
+So, 
+
+1) if giventaxid is farther in the lineage list than the species taxid, call it our_strain (since it is not literally "strain", but what we are calling the most specific classification of the organism)
+
+2) get lineage lists like PATRIC has into the SQL database for metadata creation.

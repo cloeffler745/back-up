@@ -1,0 +1,50 @@
+bacteria.1000.1.genomic.fna.gz:>NZ_PODY01000022.1 Pseudomonas sp. FW215-L2 NODE_22_length_77735_cov_29.0896, whole genome shotgun sequence
+bacteria.1001.1.genomic.fna.gz:>NZ_POHA01000146.1 Pseudomonas sp. FW306-02-F02-AB NODE_148_length_257_cov_0.811111, whole genome shotgun sequence
+bacteria.100.1.genomic.fna.gz:>NZ_CJBF01000001.1 Salmonella enterica subsp. enterica serovar Typhi strain MDUST135, whole genome shotgun sequence
+bacteria.1002.1.genomic.fna.gz:>NZ_POIC01000001.1 Pseudomonas sp. FW305-17 NODE_1_length_411112_cov_47.4789, whole genome shotgun sequence
+bacteria.1003.1.genomic.fna.gz:>NZ_POHU01001358.1 Pseudomonas sp. FW305-BF6 NODE_1359_length_247_cov_0.858824, whole genome shotgun sequence
+bacteria.1004.1.genomic.fna.gz:>NZ_CCDX020000012.1 Thalassospira sp. GB04J01, whole genome shotgun sequence
+bacteria.1005.1.genomic.fna.gz:>NZ_LJCK01000077.1 Clostridioides difficile strain LIBA5809 .11940_2_74.77, whole genome shotgun sequence
+bacteria.1006.1.genomic.fna.gz:>NZ_PJZK01000007.1 Yersiniaceae bacterium 2016Iso3 strain 2016Iso1 NODE_7_length_184152_cov_37.1372_ID_5657, whole genome shotgun sequence
+bacteria.1007.1.genomic.fna.gz:>NZ_LAXM01000001.1 Vibrio vulnificus strain CIP8190 Contigs_1, whole genome shotgun sequence
+bacteria.1008.1.genomic.fna.gz:>NZ_PPES01000013.1 Bacillus anthracis strain Kafkas-60 NODE_12_length_141374_cov_17.546, whole genome shotgun sequence
+bacteria.1009.1.genomic.fna.gz:>NZ_PPGN01000170.1 Salmonella enterica strain 15 contig0000170_, whole genome shotgun sequence
+bacteria.1010.1.genomic.fna.gz:>NZ_OFZE01000042.1 Staphylococcus aureus strain M3587 isolate M3587, whole genome shotgun sequence
+bacteria.1011.1.genomic.fna.gz:>NZ_PPRG01000047.1 Staphylococcus devriesei strain CCUG 58238 b5fd8d6d-ad9c-4a08-ad28-f37f0666a1a0_c47, whole genome shotgun sequence
+bacteria.101.1.genomic.fna.gz:>NZ_CCLZ01000001.1 Salmonella enterica subsp. enterica serovar Paratyphi A, whole genome shotgun sequence
+bacteria.1012.1.genomic.fna.gz:>NZ_PDLW01000012.1 Klebsiella pneumoniae strain LBMM1300 NODE_12_length_114568_cov_5.68288, whole genome shotgun sequence
+bacteria.1013.1.genomic.fna.gz:>NZ_OFUQ01000022.1 Staphylococcus aureus strain H1413 isolate H1413, whole genome shotgun sequence
+bacteria.1014.1.genomic.fna.gz:>NZ_PPRP01000140.1 Staphylococcus sciuri subsp. carnaticus strain CCUG 39509 e2f9ea54-3ec8-47e2-a616-5428e8aebfb3_c143, whole genome shotgun sequence
+bacteria.1015.1.genomic.fna.gz:>NZ_PQEX01000001.1 Escherichia coli strain ECPET36 Contig_179, whole genome shotgun sequence
+bacteria.1016.1.genomic.fna.gz:>NZ_PQAX01000007.1 Escherichia coli strain Cp6Salp8 NODE_7_length_197161_cov_31.0789, whole genome shotgun sequence
+bacteria.1017.1.genomic.fna.gz:>NZ_PPBU01000031.1 Campylobacter concisus strain AAUH-25Df3 1099183, whole genome shotgun sequence
+bacteria.1018.1.genomic.fna.gz:>NZ_POZH01000078.1 Campylobacter concisus strain AAUH-11HCo-a 1104959, whole genome shotgun sequence
+bacteria.1019.1.genomic.fna.gz:>NZ_PPCI01000027.1 Campylobacter concisus strain AAUH-22UCpp-a 1096775, whole genome shotgun sequence
+bacteria.10.1.genomic.fna.gz:>NZ_FLCU01000003.1 Klebsiella oxytoca strain k223, whole genome shotgun sequence
+bacteria.1020.1.genomic.fna.gz:>NZ_PQHR01000002.1 Listeria monocytogenes strain CDPHFDLB-F15M02768 F15M02768_Contig_2, whole genome shotgun sequence
+bacteria.1021.1.genomic.fna.gz:>NZ_PQHH01000001.1 Listeria monocytogenes strain CDPHFDLB-FM17-00100 FM17-00100_Contig_1, whole genome shotgun sequence
+bacteria.102.1.genomic.fna.gz:>NZ_CJKB01000031.1 Salmonella enterica subsp. enterica serovar Typhi strain 16637, whole genome shotgun sequence
+bacteria.1022.1.genomic.fna.gz:>NZ_PQJS01000054.1 Serratia sp. SSNIH5 NODE_54, whole genome shotgun sequence
+bacteria.1023.1.genomic.fna.gz:>NZ_PDVN01000006.1 Dickeya solani strain F012 Dickeya_solani_strain_F012_contig#6, whole genome shotgun sequence
+bacteria.1024.1.genomic.fna.gz:>NZ_FAJH01000190.1 Clostridioides difficile isolate VL_0341, whole genome shotgun sequence
+bacteria.1025.1.genomic.fna.gz:>NZ_FAHD01000378.1 Clostridioides difficile isolate VL_0279, whole genome shotgun sequence
+bacteria.1026.1.genomic.fna.gz:>NZ_CZZD01000801.1 Clostridioides difficile isolate VL_0071, whole genome shotgun sequence
+bacteria.1027.1.genomic.fna.gz:>NZ_PQVK01000128.1 Avibacterium paragallinarum strain CCUG 12835 contig00157, whole genome shotgun sequence
+bacteria.1028.1.genomic.fna.gz:>NZ_MAGP01000110.1 Micromonospora chalcea strain DSM 43026 Cont3, whole genome shotgun sequence
+bacteria.1029.1.genomic.fna.gz:>NZ_PJMK01000017.1 Klebsiella pneumoniae strain IMT38405 NODE_17_length_141547_cov_37.7351, whole genome shotgun sequence
+bacteria.1030.1.genomic.fna.gz:>NZ_PSTM01000007.1 Rathayibacter sp. AY1A5 AY1A5_7, whole genome shotgun sequence
+bacteria.1031.1.genomic.fna.gz:>NZ_PGWY01000440.1 Staphylococcus haemolyticus strain A109N1B1 NODE_655_length_355_cov_734.57_ID_1309, whole genome shotgun sequence
+bacteria.103.1.genomic.fna.gz:>NZ_CIZT01000020.1 Salmonella enterica subsp. enterica serovar Typhi strain MDUST242, whole genome shotgun sequence
+bacteria.1032.1.genomic.fna.gz:>NZ_POQT01000001.1 Blastococcus saxobsidens strain DSM 44509 contig00001, whole genome shotgun sequence
+bacteria.1033.1.genomic.fna.gz:>NZ_PTPA01000013.1 Cronobacter sakazakii strain MOD1_LR654 LR654_contig_10, whole genome shotgun sequence
+bacteria.1034.1.genomic.fna.gz:>NZ_PTNJ01000136.1 Escherichia coli strain YH17148 scaffold136, whole genome shotgun sequence
+bacteria.1035.1.genomic.fna.gz:>NZ_PTOC01000003.1 Escherichia coli strain SC_F11_1 NODE_3_length_445780_cov_45.8279, whole genome shotgun sequence
+bacteria.1036.1.genomic.fna.gz:>NZ_PTUK01000117.1 Enterococcus faecalis strain CVM N59609F N59609F_S16_L001_R1_001_contig_117, whole genome shotgun sequence
+bacteria.1037.1.genomic.fna.gz:>NZ_PTYT01000007.1 Enterococcus faecium strain CVM N53533 N53533_S55_L001_R1_001_contig_7, whole genome shotgun sequence
+bacteria.1038.1.genomic.fna.gz:>NZ_PUDN01000179.1 Acinetobacter baumannii strain R20 P_contig000179, whole genome shotgun sequence
+bacteria.1039.1.genomic.fna.gz:>NZ_NMZU01000001.1 Pantoea ananatis strain PANS 01-2 NODE_1_length_1222772_cov_31.8259_ID_1423, whole genome shotgun sequence
+bacteria.1040.1.genomic.fna.gz:>NZ_POKP01000074.1 Streptococcus suis strain 1367 SS_1367_Contig74, whole genome shotgun sequence
+bacteria.1041.1.genomic.fna.gz:>NZ_PTQG01000001.1 Escherichia coli strain CowEC274 contig000001, whole genome shotgun sequence
+bacteria.104.1.genomic.fna.gz:>NZ_CJHD01000003.1 Salmonella enterica subsp. enterica serovar Typhi strain MDUST302, whole genome shotgun sequence
+bacteria.1042.1.genomic.fna.gz:>NZ_POMH01000234.1 Streptococcus suis strain 1069 SS_1069_Contig234, whole genome shotgun sequence
+bacteria.1043.1.genomic.fna.gz:>NZ_PUHG01000281.1 Shigella flexneri strain BS942 CFSAN002078_508, whole genome shotgun sequence

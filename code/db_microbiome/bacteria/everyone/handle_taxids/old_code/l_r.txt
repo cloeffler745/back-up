@@ -1,0 +1,54 @@
+
+no rank	no rank	superkingdom	no rank	no rank	no rank	no rank	no rank	species
+no rank	no rank	superkingdom	no rank	no rank	no rank	no rank	phylum	no rank	species
+no rank	no rank	superkingdom	no rank	no rank	no rank	no rank	phylum	species
+no rank	no rank	superkingdom	no rank	no rank	no rank	no rank	species
+no rank	no rank	superkingdom	no rank	no rank	no rank	species
+no rank	no rank	superkingdom	no rank	no rank	phylum	class	no rank	species
+no rank	no rank	superkingdom	no rank	no rank	phylum	class	order	family	no rank	species
+no rank	no rank	superkingdom	no rank	no rank	phylum	class	order	no rank	no rank	species
+no rank	no rank	superkingdom	no rank	no rank	phylum	class	order	no rank	no rank	species	no rank
+no rank	no rank	superkingdom	no rank	no rank	phylum	no rank	no rank	species
+no rank	no rank	superkingdom	no rank	no rank	phylum	no rank	no rank	species	no rank
+no rank	no rank	superkingdom	no rank	no rank	phylum	no rank	species
+no rank	no rank	superkingdom	no rank	no rank	phylum	order	family	no rank	species
+no rank	no rank	superkingdom	no rank	no rank	phylum	order	no rank	no rank	species
+no rank	no rank	superkingdom	no rank	no rank	phylum	species
+no rank	no rank	superkingdom	no rank	no rank	phylum	subclass	order	no rank	no rank	species
+no rank	no rank	superkingdom	no rank	no rank	species
+no rank	no rank	superkingdom	no rank	phylum	class	no rank	no rank	species
+no rank	no rank	superkingdom	no rank	phylum	class	no rank	species
+no rank	no rank	superkingdom	no rank	phylum	class	order	family	no rank	no rank	species
+no rank	no rank	superkingdom	no rank	phylum	class	order	family	no rank	species
+no rank	no rank	superkingdom	no rank	phylum	class	order	family	no rank	species	no rank
+no rank	no rank	superkingdom	no rank	phylum	class	order	family	species	no rank
+no rank	no rank	superkingdom	no rank	phylum	class	order	no rank	family	no rank	species
+no rank	no rank	superkingdom	no rank	phylum	class	order	no rank	family	species	no rank
+no rank	no rank	superkingdom	no rank	phylum	class	order	no rank	no rank	species
+no rank	no rank	superkingdom	no rank	phylum	class	order	no rank	no rank	species	no rank
+no rank	no rank	superkingdom	no rank	phylum	class	order	no rank	species
+no rank	no rank	superkingdom	no rank	phylum	class	order	no rank	species	no rank
+no rank	no rank	superkingdom	no rank	phylum	no rank	no rank	species
+no rank	no rank	superkingdom	no rank	phylum	no rank	species
+no rank	no rank	superkingdom	no rank	phylum	order	no rank	species
+no rank	no rank	superkingdom	no rank	species
+no rank	no rank	superkingdom	phylum	class	no rank	no rank	no rank	species
+no rank	no rank	superkingdom	phylum	class	no rank	no rank	species
+no rank	no rank	superkingdom	phylum	class	no rank	no rank	species	no rank
+no rank	no rank	superkingdom	phylum	class	order	family	no rank	no rank	no rank	species
+no rank	no rank	superkingdom	phylum	class	order	family	no rank	no rank	species
+no rank	no rank	superkingdom	phylum	class	order	family	no rank	species
+no rank	no rank	superkingdom	phylum	class	order	family	no rank	species	no rank
+no rank	no rank	superkingdom	phylum	class	order	family	species
+no rank	no rank	superkingdom	phylum	class	order	family	tribe	genus
+no rank	no rank	superkingdom	phylum	class	order	no rank	no rank	species
+no rank	no rank	superkingdom	phylum	class	order	no rank	species
+no rank	no rank	superkingdom	phylum	no rank	class	no rank	species
+no rank	no rank	superkingdom	phylum	no rank	class	order	no rank	no rank	species
+no rank	no rank	superkingdom	phylum	no rank	class	order	no rank	species
+no rank	no rank	superkingdom	phylum	no rank	no rank	species
+no rank	no rank	superkingdom	phylum	no rank	species
+no rank	no rank	superkingdom	phylum	no rank	species	no rank
+no rank	no rank	superkingdom	phylum	no rank	subphylum	class	no rank	species
+no rank	no rank	superkingdom	phylum	subphylum	class	no rank	no rank	species
+no rank	no rank	superkingdom	phylum	subphylum	class	order	family	no rank	no rank	species

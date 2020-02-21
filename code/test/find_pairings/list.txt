@@ -1,0 +1,5 @@
+0_1k.fasta
+0_ensemble.fasta
+0_ncbi.fasta
+1_1k.fasta
+1_ncbi.fasta

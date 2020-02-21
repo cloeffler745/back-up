@@ -1,0 +1,5 @@
+the assembly_summary_bacteria.txt is the file used in the match_taxids code
+
+the assembly_summary_refseq.txt may be a better file to use in the future since it contained the metadata for the 1 missing reference from REFSEQ. 
+
+

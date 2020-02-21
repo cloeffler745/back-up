@@ -1,0 +1,290 @@
+GCF_000001985.1_JCVI-PMFA1-2.0_genomic.fna.gz:>NW_002197112.1 Penicillium marneffei ATCC 18224 scf_1107713384177, whole genome shotgun sequence
+GCF_000002495.2_MG8_genomic.fna.gz:>NC_017844.1 Magnaporthe oryzae 70-15 chromosome 1, whole genome shotgun sequence
+GCF_000002515.2_ASM251v1_genomic.fna.gz:>NC_006037.1 Kluyveromyces lactis strain NRRL Y-1140 chromosome A complete sequence
+GCF_000002525.2_ASM252v1_genomic.fna.gz:>NC_006067.1 Yarrowia lipolytica CLIB122 chromosome A complete sequence
+GCF_000002545.3_ASM254v2_genomic.fna.gz:>NC_005967.2 [Candida] glabrata strain CBS138 chromosome A complete sequence
+GCF_000002655.1_ASM265v1_genomic.fna.gz:>NC_007194.1 Aspergillus fumigatus Af293 chromosome 1, whole genome shotgun sequence
+GCF_000002715.2_ASM271v1_genomic.fna.gz:>NW_001510342.1 Aspergillus clavatus NRRL 1 1099423829862 genomic scaffold, whole genome shotgun sequence
+GCF_000002855.3_ASM285v2_genomic.fna.gz:>NT_166525.1 Aspergillus niger CBS 513.88 supercontig An09
+GCF_000002945.1_ASM294v2_genomic.fna.gz:>NC_003424.3 Schizosaccharomyces pombe chromosome I, complete sequence
+GCF_000003125.1_JCVI-TSTA1-3.0_genomic.fna.gz:>NW_002990142.1 Talaromyces stipitatus ATCC 10500 scf_1105507295581, whole genome shotgun sequence
+GCF_000003515.1_ASM351v2_genomic.fna.gz:>NW_003052500.1 Uncinocarpus reesii 1704 scaffold_1 genomic scaffold, whole genome shotgun sequence
+GCF_000003835.1_ASM383v1_genomic.fna.gz:>NW_003101575.1 Clavispora lusitaniae ATCC 42720 scaffold_4 genomic scaffold, whole genome shotgun sequence
+GCF_000003855.2_BD_SLH14081_V1_genomic.fna.gz:>NW_003101682.1 Ajellomyces dermatitidis SLH14081 genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000004155.1_SCY4_genomic.fna.gz:>NW_013185624.1 Schizosaccharomyces cryophilus OY26 unplaced genomic scaffold supercont4.1, whole genome shotgun sequence
+GCF_000006275.2_JCVI-afl1-v2.0_genomic.fna.gz:>NW_002479158.1 Aspergillus flavus NRRL3357 scf_1106755282378 genomic scaffold, whole genome shotgun sequence
+GCF_000006335.3_ASM633v3_genomic.fna.gz:>NW_003020038.1 Candida tropicalis MYA-3404 genomic scaffold supercont3.1, whole genome shotgun sequence
+GCF_000006445.2_ASM644v2_genomic.fna.gz:>NC_006043.2 Debaryomyces hansenii CBS767 chromosome A complete sequence
+GCF_000026365.1_ASM2636v1_genomic.fna.gz:>NC_012990.1 Zygosaccharomyces rouxii strain CBS732 chromosome A complete sequence
+GCF_000026945.1_ASM2694v1_genomic.fna.gz:>NC_012867.1 Candida dubliniensis CD36 chromosome R, complete sequence
+GCF_000027005.1_ASM2700v1_genomic.fna.gz:>NC_012963.1 Komagataella phaffii GS115 chromosome 1, complete sequence
+GCF_000091025.4_ASM9102v4_genomic.fna.gz:>NC_005782.2 Eremothecium gossypii ATCC 10895 chromosome I, complete sequence
+GCF_000091045.1_ASM9104v1_genomic.fna.gz:>NC_006670.1 Cryptococcus neoformans var. neoformans JEC21 chromosome 1, complete sequence
+GCF_000091225.1_ASM9122v1_genomic.fna.gz:>NC_003242.2 Encephalitozoon cuniculi GB-M1 chromosome I, complete sequence
+GCF_000142805.1_ASM14280v1_genomic.fna.gz:>NC_013077.1 Lachancea thermotolerans CBS 6340 chromosome A complete sequence
+GCF_000143105.1_Sanger-454-IlluminaPA_2.0_genomic.fna.gz:>NW_014040846.1 Grosmannia clavigera kw1407 unplaced genomic scaffold GCSC_1, whole genome shotgun sequence
+GCF_000143185.1_v1.0_genomic.fna.gz:>NW_003315672.1 Schizophyllum commune H4-8 unplaced genomic scaffold SCHCOscaffold_1, whole genome shotgun sequence
+GCF_000143365.1_ASM14336v1_genomic.fna.gz:>NT_166024.1 Chaetomium globosum CBS 148.51 scaffold_37 genomic scaffold, whole genome shotgun sequence
+GCF_000143535.2_ASM14353v4_genomic.fna.gz:>NC_037310.1 Botrytis cinerea B05.10 chromosome 1, complete sequence
+GCF_000143565.1_V1.0_genomic.fna.gz:>NW_001890536.1 Laccaria bicolor S238N-H82 LACBIscaffold_1178, whole genome shotgun sequence
+GCF_000145635.1_Gae_graminis_V2_genomic.fna.gz:>NW_008804545.1 Gaeumannomyces tritici R3-111a-1 unplaced genomic scaffold supercont2.1, whole genome shotgun sequence
+GCF_000146045.2_R64_genomic.fna.gz:>NC_001133.9 Saccharomyces cerevisiae S288C chromosome I, complete sequence
+GCF_000146465.1_ASM14646v1_genomic.fna.gz:>NC_014415.1 Encephalitozoon intestinalis ATCC 50506 chromosome I, complete sequence
+GCF_000146915.1_ASM14691v2_genomic.fna.gz:>NW_001884618.1 Parastagonospora nodorum SN15 chromosome Unknown scaffold_78, whole genome shotgun sequence
+GCF_000146945.2_ASM14694v2_genomic.fna.gz:>NW_001820802.1 Sclerotinia sclerotiorum 1980 UF-70 scaffold_34 genomic scaffold, whole genome shotgun sequence
+GCF_000149035.1_C_graminicola_M1_001_V1_genomic.fna.gz:>NW_007361005.1 Colletotrichum graminicola M1.001 genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000149205.2_ASM14920v2_genomic.fna.gz:>NT_107008.1 Aspergillus nidulans FGSC A4 chromosome I map unlocalized scaffold_8, whole genome shotgun sequence
+GCF_000149245.1_CNA3_genomic.fna.gz:>NC_026745.1 Cryptococcus neoformans var. grubii H99 chromosome 1, complete sequence
+GCF_000149335.2_ASM14933v2_genomic.fna.gz:>NW_004504312.1 Coccidioides immitis RS genomic scaffold supercont3.6, whole genome shotgun sequence
+GCF_000149385.1_ASM14938v1_genomic.fna.gz:>NC_009177.1 Cryptococcus neoformans var. neoformans B-3501A chromosome 1, whole genome shotgun sequence
+GCF_000149425.1_ASM14942v1_genomic.fna.gz:>NW_001809793.1 Meyerozyma guilliermondii ATCC 6260 scaffold_8 genomic scaffold, whole genome shotgun sequence
+GCF_000149555.1_ASM14955v1_genomic.fna.gz:>NC_031675.1 Fusarium verticillioides 7600 chromosome 1, whole genome shotgun sequence
+GCF_000149585.1_ASM14958v1_genomic.fna.gz:>NW_001813913.1 Histoplasma capsulatum NAm1 scaffold_99 genomic scaffold, whole genome shotgun sequence
+GCF_000149615.1_ASM14961v1_genomic.fna.gz:>NT_165947.1 Aspergillus terreus NIH2624 scaffold_24 genomic scaffold, whole genome shotgun sequence
+GCF_000149645.1_ASM14964v1_genomic.fna.gz:>NW_001509366.1 Aspergillus fischeri NRRL 181 1099437636660 genomic scaffold, whole genome shotgun sequence
+GCF_000149685.1_ASM14968v1_genomic.fna.gz:>NW_001813675.1 Lodderomyces elongisporus NRRL YB-4239 supercont1.11 genomic scaffold, whole genome shotgun sequence
+GCF_000149845.2_SJ5_genomic.fna.gz:>NW_011627860.1 Schizosaccharomyces japonicus yFS275 unplaced genomic scaffold supercont5.1, whole genome shotgun sequence
+GCF_000149925.1_ASM14992v1_genomic.fna.gz:>NW_003526742.1 Puccinia graminis f. sp. tritici CRL 75-36-700-3 supercont2.336 genomic scaffold, whole genome shotgun sequence
+GCF_000149955.1_ASM14995v2_genomic.fna.gz:>NC_030986.1 Fusarium oxysporum f. sp. lycopersici 4287 chromosome 1, whole genome shotgun sequence
+GCF_000149985.1_ASM14998v1_genomic.fna.gz:>NW_001939290.1 Pyrenophora tritici-repentis Pt-1C-BFP supercont1.47, whole genome shotgun sequence
+GCF_000150035.1_ASM15003v1_genomic.fna.gz:>NW_001834414.1 Vanderwaltozyma polyspora DSM 70294 KpolScaffold93 genomic scaffold, whole genome shotgun sequence
+GCF_000150505.1_SO6_genomic.fna.gz:>NW_013185619.1 Schizosaccharomyces octosporus yFS286 unplaced genomic scaffold supercont6.1, whole genome shotgun sequence
+GCF_000150675.1_ASM15067v2_genomic.fna.gz:>NW_009276916.1 Verticillium dahliae VdLs.17 supercont1.2 genomic scaffold, whole genome shotgun sequence
+GCF_000150705.2_Paracocci_br_Pb01_V2_genomic.fna.gz:>NW_015440947.1 Paracoccidioides lutzii Pb01 unplaced genomic scaffold supercont2.1, whole genome shotgun sequence
+GCF_000150735.1_Paracocci_br_Pb18_V2_genomic.fna.gz:>NW_011371358.1 Paracoccidioides brasiliensis Pb18 unplaced genomic scaffold supercont2.1, whole genome shotgun sequence
+GCF_000150825.1_ASM15082v1_genomic.fna.gz:>NW_003315040.1 Verticillium alfalfae VaMs.102 supercont1.26 genomic scaffold, whole genome shotgun sequence
+GCF_000150975.2_MS_CBS118893_genomic.fna.gz:>NW_003345184.1 Nannizzia gypsea CBS 118893 supercont1.18 genomic scaffold, whole genome shotgun sequence
+GCF_000151125.1_ASM15112v2_genomic.fna.gz:>NW_003315046.1 Trichophyton benhamiae CBS 112371 chromosome Unknown contig02151.0, whole genome shotgun sequence
+GCF_000151145.1_ASM15114v1_genomic.fna.gz:>NW_003299154.1 Arthroderma otae CBS 113480 supercont1.16 genomic scaffold, whole genome shotgun sequence
+GCF_000151335.2_JCVI-cpa1-1.0_genomic.fna.gz:>NW_003315973.1 Coccidioides posadasii C735 delta SOWgp chromosome Unknown gcontig_1105601051793, whole genome shotgun sequence
+GCF_000151355.1_v2.0_genomic.fna.gz:>NW_003315682.1 Nectria haematococca mpVI 77-13-4 chromosome 1 genomic scaffold NECHAsca_208_chr1_2_0, whole genome shotgun sequence
+GCF_000151425.1_ASM15142v1_genomic.fna.gz:>NW_003456394.1 Trichophyton rubrum CBS 118892 genomic scaffold supercont2.35, whole genome shotgun sequence
+GCF_000151505.1_ASM15150v1_genomic.fna.gz:>NW_003315114.1 Trichophyton verrucosum HKI 0517 contig01395_1.f1.exp, whole genome shotgun sequence
+GCF_000151645.1_ASM15164v1_genomic.fna.gz:>NW_003298755.1 Tuber melanosporum Mel28 whole genome shotgun sequence assembly, scaffold_1
+GCF_000167675.1_v2.0_genomic.fna.gz:>NW_006711148.1 Trichoderma reesei QM6a unplaced genomic scaffold TRIREscaffold_1, whole genome shotgun sequence
+GCF_000170995.1_TRIVI_v2.0_genomic.fna.gz:>NW_014013656.1 Trichoderma virens Gv29-8 chromosome Unknown TRIVIscaffold_93, whole genome shotgun sequence
+GCF_000171015.1_TRIAT_v2.0_genomic.fna.gz:>NW_014013627.1 Trichoderma atroviride IMI 206040 chromosome Unknown TRIATcontig_29, whole genome shotgun sequence
+GCF_000181695.1_ASM18169v1_genomic.fna.gz:>NW_001849832.1 Malassezia globosa CBS 7966 MGL_SF_1028.1, whole genome shotgun sequence
+GCF_000182565.1_S_punctatus_V1_genomic.fna.gz:>NW_015971537.1 Spizellomyces punctatus DAOM BR117 chromosome Unknown supercont1.1, whole genome shotgun sequence
+GCF_000182805.2_ASM18280v2_genomic.fna.gz:>NW_020186922.1 Sordaria macrospora k-hell, WGS project CABT00000000 data, contig 2.1583, whole genome shotgun sequence
+GCF_000182895.1_CC3_genomic.fna.gz:>NW_003307544.1 Coprinopsis cinerea okayama7#130 chromosome 1 map unlocalized cont3.1, whole genome shotgun sequence
+GCF_000182925.2_NC12_genomic.fna.gz:>NC_026501.1 Neurospora crassa OR74A linkage group I, whole genome shotgun sequence
+GCF_000182965.3_ASM18296v3_genomic.fna.gz:>NC_032089.1 Candida albicans SC5314 chromosome 1 sequence
+GCF_000184455.2_ASM18445v3_genomic.fna.gz:>NC_036435.1 Aspergillus oryzae RIB40 DNA, chromosome 1
+GCF_000185945.1_ASM18594v1_genomic.fna.gz:>NC_014938.1 Cryptococcus gattii WM276 chromosome A, complete sequence
+GCF_000187245.1_Hansenula_2_genomic.fna.gz:>NC_027866.1 Ogataea parapolymorpha DL-1 chromosome I, whole genome shotgun sequence
+GCF_000187405.1_MetAcr_May2010_genomic.fna.gz:>NW_006916674.1 Metarhizium acridum CQMa 102 unplaced genomic scaffold Scf_001, whole genome shotgun sequence
+GCF_000187425.2_MAA_2.0_genomic.fna.gz:>NW_011942149.1 Metarhizium robertsii ARSEF 23 MAA_Scf_1, whole genome shotgun sequence
+GCF_000192795.1_Vavr_culi_floridensis_V1_genomic.fna.gz:>NW_007360604.1 Vavraia culicis subsp. floridensis unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000203795.1_v1.0_genomic.fna.gz:>NW_006281099.1 Batrachochytrium dendrobatidis JAM81 unplaced genomic scaffold BATDEscaffold_1, whole genome shotgun sequence
+GCF_000204055.1_v1.0_genomic.fna.gz:>NW_006768765.1 Melampsora larici-populina 98AG31 unplaced genomic scaffold MELLAscaffold_1, whole genome shotgun sequence
+GCF_000209165.1_ASM20916v1_genomic.fna.gz:>NC_009068.1 Scheffersomyces stipitis CBS 6054 chromosome 1, whole genome shotgun sequence
+GCF_000213175.1_v2.0_genomic.fna.gz:>NW_009799099.1 Neurospora tetrasperma FGSC 2508 unplaced genomic scaffold NEUTE1scaffold_1, whole genome shotgun sequence
+GCF_000218685.1_v1.0_genomic.fna.gz:>NW_006763290.1 Serpula lacrymans var. lacrymans S7.9 unplaced genomic scaffold SERLAscaffold_1, whole genome shotgun sequence
+GCF_000219625.1_MYCGR_v2.0_genomic.fna.gz:>NC_018218.1 Zymoseptoria tritici IPO323 chromosome 1, whole genome shotgun sequence
+GCF_000221225.1_CTHT_3.0_genomic.fna.gz:>NW_006383020.1 Chaetomium thermophilum var. thermophilum DSM 1495 unplaced genomic scaffold scf7180000011800, whole genome shotgun sequence
+GCF_000223465.1_Candida_tenuis_v1.0_genomic.fna.gz:>NW_006281226.1 Candida tenuis ATCC 10573 unplaced genomic scaffold CANTEscaffold_00001, whole genome shotgun sequence
+GCF_000223485.1_Spathaspora_passalidarum_v2.0_genomic.fna.gz:>NW_006767425.1 Spathaspora passalidarum NRRL Y-27907 unplaced genomic scaffold SPAPAscaffold_1, whole genome shotgun sequence
+GCF_000225545.1_AOL24927_1.0_genomic.fna.gz:>NW_011645558.1 Arthrobotrys oligospora ATCC 24927 unplaced genomic scaffold scaffold00001, whole genome shotgun sequence
+GCF_000225605.1_CmilitarisCM01_v01_genomic.fna.gz:>NW_006271969.1 Cordyceps militaris CM01 unplaced genomic scaffold CCM_S00001, whole genome shotgun sequence
+GCF_000226095.1_ASM22609v1_genomic.fna.gz:>NC_016472.1 Thermothelomyces thermophila ATCC 42464 chromosome 1, complete sequence
+GCF_000226115.1_ASM22611v1_genomic.fna.gz:>NC_016457.1 Thielavia terrestris NRRL 8126 chromosome 1, complete sequence
+GCF_000226395.1_PenChr_Nov2007_genomic.fna.gz:>NW_003020110.1 Penicillium chrysogenum Wisconsin 54-1255 complete genome, contig Pc00c21
+GCF_000226545.1_ASM22654v1_genomic.fna.gz:>NW_001914859.1 Podospora anserina S mat+ genomic DNA chromosome 1, supercontig 1
+GCF_000227115.2_ASM22711v2_genomic.fna.gz:>NC_016479.1 Naumovozyma dairenensis CBS 421 chromosome 1, complete genome
+GCF_000230375.1_ASM23037v1_genomic.fna.gz:>NW_003533803.1 Leptosphaeria maculans JN3 lm_SuperContig_62_v2 genomic supercontig, whole genome, isolate v23.1.3
+GCF_000230625.1_Exop_derm_V1_genomic.fna.gz:>NW_008751646.1 Exophiala dermatitidis NIH/UT8656 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000231115.1_Vitt_corn_V1_genomic.fna.gz:>NW_006889834.1 Vittaforma corneae ATCC 50505 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000235365.1_ASM23536v1_genomic.fna.gz:>NC_016449.1 Eremothecium cymbalariae DBVPG#7215 chromosome 1, complete sequence
+GCF_000236905.1_ASM23690v1_genomic.fna.gz:>NC_016520.1 Tetrapisispora phaffii CBS 4417 chromosome 1, complete genome
+GCF_000237345.1_ASM23734v1_genomic.fna.gz:>NC_016491.1 Naumovozyma castellii CBS 4309 chromosome 1, complete genome
+GCF_000240135.3_ASM24013v3_genomic.fna.gz:>NC_026474.1 Fusarium graminearum PH-1 chromosome 1, whole genome shotgun sequence
+GCF_000243375.1_ASM24337v1_genomic.fna.gz:>NC_016501.1 Torulaspora delbrueckii CBS 1146 chromosome 1, complete genome
+GCF_000250985.1_Nema_parisii_ERTm1_V3_genomic.fna.gz:>NW_013524646.1 Nematocida parisii ERTm1 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000263375.1_Wallemia_sebi_v1.0_genomic.fna.gz:>NW_006531958.1 Wallemia mellicola CBS 633.66 unplaced genomic scaffold WALSEscaffold_1, whole genome shotgun sequence
+GCF_000264905.1_Stehi1_genomic.fna.gz:>NW_006763131.1 Stereum hirsutum FP-91666 SS1 unplaced genomic scaffold STEHIscaffold_1, whole genome shotgun sequence
+GCF_000264995.1_Punctularia_strigosozonata_v1.0_genomic.fna.gz:>NW_006767433.1 Punctularia strigosozonata HHB-11173 SS5 unplaced genomic scaffold PUNSTscaffold_1, whole genome shotgun sequence
+GCF_000271585.1_Trametes_versicolor_v1.0_genomic.fna.gz:>NW_007360321.1 Trametes versicolor FP-101664 SS1 unplaced genomic scaffold TRAVEscaffold_1, whole genome shotgun sequence
+GCF_000271605.1_Fomme1_genomic.fna.gz:>NW_006760386.1 Fomitiporia mediterranea MF3/22 unplaced genomic scaffold FOMMEscaffold_1, whole genome shotgun sequence
+GCF_000271625.1_Conpu1_genomic.fna.gz:>NW_006913053.1 Coniophora puteana RWD-64-598 SS2 unplaced genomic scaffold CONPUscaffold_1, whole genome shotgun sequence
+GCF_000271645.1_Treme1_genomic.fna.gz:>NW_006711225.1 Tremella mesenterica DSM 1558 unplaced genomic scaffold TREMEscaffold_1, whole genome shotgun sequence
+GCF_000275845.1_Dichomitus_squalens_v1.0_genomic.fna.gz:>NW_006766883.1 Dichomitus squalens LYAD-421 SS1 unplaced genomic scaffold DICSQscaffold_1, whole genome shotgun sequence
+GCF_000277815.2_ASM27781v3_genomic.fna.gz:>NC_018468.1 Encephalitozoon hellem ATCC 50504 chromosome I, complete sequence
+GCF_000280035.1_ASM28003v2_genomic.fna.gz:>NC_024896.1 Encephalitozoon romaleae SJ-2008 chromosome I, complete sequence
+GCF_000280675.1_ASM28067v1_genomic.fna.gz:>NW_007930836.1 Beauveria bassiana ARSEF 2860 unplaced genomic scaffold BBA_S00001, whole genome shotgun sequence
+GCF_000281105.1_Coni_apol_CBS100218_V1_genomic.fna.gz:>NW_006913263.1 Coniosporium apollinis CBS 100218 chromosome Unknown supercont1.1, whole genome shotgun sequence
+GCF_000293215.1_Trichosporon_asahii_1_genomic.fna.gz:>NW_014040923.1 Trichosporon asahii var. asahii CBS 2479 unplaced genomic scaffold scaffold00001, whole genome shotgun sequence
+GCF_000298775.1_ASM29877v1_genomic.fna.gz:>NW_006763039.1 Marssonina brunnea f. sp. 'multigermtubi' MB_m1 unplaced genomic scaffold M6_S00001, whole genome shotgun sequence
+GCF_000300555.1_Agabi_varbur_1_genomic.fna.gz:>NW_006763336.1 Agaricus bisporus var. burnettii JB137-S8 unplaced genomic scaffold AGABI1scaffold_1, whole genome shotgun sequence
+GCF_000300575.1_Agabi_varbisH97_2_genomic.fna.gz:>NW_006267344.1 Agaricus bisporus var. bisporus H97 unplaced genomic scaffold AGABI2scaffold_1, whole genome shotgun sequence
+GCF_000300595.1_Phanerochaete_carnosa_HHB-10118-Sp_v1.0_genomic.fna.gz:>NW_006767628.1 Phanerochaete carnosa HHB-10118-sp unplaced genomic scaffold PHACAscaffold_1, whole genome shotgun sequence
+GCF_000303195.2_FP7_genomic.fna.gz:>NC_031951.1 Fusarium pseudograminearum CS3096 chromosome 1, whole genome shotgun sequence
+GCF_000304475.1_Ka_CBS2517_genomic.fna.gz:>NC_018940.1 Kazachstania africana CBS 2517 chromosome 1, complete genome
+GCF_000313485.1_ASM31348v1_genomic.fna.gz:>NW_011887376.1 Wickerhamomyces ciferrii WGS project CAIF00000000 data, strain NRRL Y-1031 F-60-10, contig 00365, whole genome shotgun sequence
+GCF_000313525.1_ASM31352v1_genomic.fna.gz:>NW_012132922.1 Fibroporia radiculosa TFFH 294 genomic supercontigs, scaffold7499, whole genome shotgun sequence
+GCF_000315645.1_PdigPd1_v1_genomic.fna.gz:>NW_014574624.1 Penicillium digitatum Pd1 unplaced genomic scaffold Scaffold_1, whole genome shotgun sequence
+GCF_000315875.1_ASM31587v1_genomic.fna.gz:>NC_018292.1 Candida orthopsilosis Co 90-125, chromosome 1 draft sequence
+GCF_000315915.1_ASM31591v1_genomic.fna.gz:>NC_020185.1 Tetrapisispora blattae CBS 6284 chromosome 1, complete genome
+GCF_000320565.1_Septoria_musiva_SO2202_v1.0_genomic.fna.gz:>NW_016017383.1 Sphaerulina musiva SO2202 unplaced genomic scaffold SEPMUscaffold_1, whole genome shotgun sequence
+GCF_000320585.1_Heterobasidion_irregulare_v2.0_genomic.fna.gz:>NW_009258197.1 Heterobasidion irregulare TC 32-1 unplaced genomic scaffold scaffold_01, whole genome shotgun sequence
+GCF_000320785.1_RHOziaDV1.0_genomic.fna.gz:>NW_015622961.1 Rhodotorula toruloides NP11 unplaced genomic scaffold Scaffold1, whole genome shotgun sequence
+GCF_000328475.2_Umaydis521_2.0_genomic.fna.gz:>NC_026478.1 Ustilago maydis 521 chromosome 1, whole genome shotgun sequence
+GCF_000338955.1_Bauco1_genomic.fna.gz:>NW_006911257.1 Baudoinia panamericana UAMH 10762 unplaced genomic scaffold BAUCOscaffold_1, whole genome shotgun sequence
+GCF_000338995.1_Cocsa1_genomic.fna.gz:>NW_006911895.1 Bipolaris sorokiniana ND90Pr unplaced genomic scaffold COCSAscaffold_1, whole genome shotgun sequence
+GCF_000340215.1_Mycfi2_genomic.fna.gz:>NW_006921532.1 Pseudocercospora fijiensis CIRAD86 unplaced genomic scaffold MYCFIscaffold_1, whole genome shotgun sequence
+GCF_000344685.1_Glotr1_1_genomic.fna.gz:>NW_006920410.1 Gloeophyllum trabeum ATCC 11539 unplaced genomic scaffold GLOTRscaffold_00001, whole genome shotgun sequence
+GCF_000348985.1_ASM34898v1_genomic.fna.gz:>NC_035922.1 Kazachstania naganishii CBS 8797 chromosome 1, complete genome
+GCF_000349005.2_Pneumo_murina_B123_V4_genomic.fna.gz:>NW_017802359.1 Pneumocystis murina B123 chromosome Unknown supercont1.1, whole genome shotgun sequence
+GCF_000349305.1_ASM34930v2_genomic.fna.gz:>NW_017387799.1 Malassezia sympodialis ATCC 42132 genomic scaffold, msy_sf_1, whole genome shotgun sequence
+GCF_000354255.1_CocheC4_1_genomic.fna.gz:>NW_014024938.1 Bipolaris maydis ATCC 48331 unplaced genomic scaffold COCC4scaffold_1, whole genome shotgun sequence
+GCF_000359705.1_Setospaeria_trucica_Et28A_v1.0_genomic.fna.gz:>NW_007359914.1 Setosphaeria turcica Et28A unplaced genomic scaffold SETTUscaffold_1, whole genome shotgun sequence
+GCF_000365145.1_Phia_euro_CBS_101466_V1_genomic.fna.gz:>NW_008481797.1 Cyphellophora europaea CBS 101466 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000365165.1_Clad_carr_CBS_160_54_V1_genomic.fna.gz:>NW_008481816.1 Cladophialophora carrionii CBS 160.54 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000392275.1_UCRPA7V03_genomic.fna.gz:>NW_006920908.1 Phaeoacremonium minimum UCRPA7 unplaced genomic scaffold PA7_03_scaffold_1, whole genome shotgun sequence
+GCF_000400465.1_Wallemia_ichthyophaga_version_1.0_genomic.fna.gz:>NW_008806274.1 Wallemia ichthyophaga EXF-994 unplaced genomic scaffold scaffold1, whole genome shotgun sequence
+GCF_000403515.1_ASM40351v1_genomic.fna.gz:>NW_012133783.1 Pseudozyma hubeiensis SY62 DNA, scaffold: PHS1, whole genome shotgun sequence
+GCF_000409485.1_GLAREA_genomic.fna.gz:>NW_007360983.1 Glarea lozoyensis ATCC 20868 chromosome Unknown GLAREA1, whole genome shotgun sequence
+GCF_000417875.1_Pflocc_1.0_genomic.fna.gz:>NW_006920869.1 Anthracocystis flocculosa PF-1 unplaced genomic scaffold scaffold00001, whole genome shotgun sequence
+GCF_000439145.1_ASM43914v3_genomic.fna.gz:>NW_020269255.1 Rhizophagus irregularis DAOM 181602=DAOM 197198 chromosome Unknown scaffold1, whole genome shotgun sequence
+GCF_000464535.1_EPUS_genomic.fna.gz:>NW_006913432.1 Endocarpon pusillum Z07020 unplaced genomic scaffold C653857, whole genome shotgun sequence
+GCF_000497045.1_PSEUBRA1_genomic.fna.gz:>NW_015961948.1 Kalmanozyma brasiliensis GHG001 unplaced genomic scaffold PSEUBRA_SCAF1, whole genome shotgun sequence
+GCF_000507465.1_Kwon_mang_CBS8507_V2_genomic.fna.gz:>NW_017566902.1 Kwoniella mangroviensis CBS 8507 unplaced genomic scaffold supercont2.1, whole genome shotgun sequence
+GCF_000512565.1_Cryp_deje_CBS10117_V1_genomic.fna.gz:>NW_017264915.1 Kwoniella dejecticola CBS 10117 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000512585.1_Cryp_best_CBS10118_V1_genomic.fna.gz:>NW_017607561.1 Kwoniella bestiolae CBS 10118 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000512605.1_Cryp_pinu_CBS10737_V1_genomic.fna.gz:>NW_017566964.1 Kwoniella pini CBS 10737 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000516985.1_PFICI_genomic.fna.gz:>NW_006917091.1 Pestalotiopsis fici W106-1 unplaced genomic scaffold PFICI_Scf_1, whole genome shotgun sequence
+GCF_000523435.1_Cochliobolus_carbonum_v1.0_genomic.fna.gz:>NW_006912049.1 Bipolaris zeicola 26-R-13 unplaced genomic scaffold scaffold_0, whole genome shotgun sequence
+GCF_000523455.1_Cochliobolus_miyabeanus_v1.0_genomic.fna.gz:>NW_006911276.1 Bipolaris oryzae ATCC 44560 unplaced genomic scaffold scaffold_0, whole genome shotgun sequence
+GCF_000527765.1_Cochliobolus_victoriae_v1.0_genomic.fna.gz:>NW_014575392.1 Bipolaris victoriae FI3 unplaced genomic scaffold scaffold_0, whole genome shotgun sequence
+GCF_000576695.1_AUH_PRJEB4427_v1_genomic.fna.gz:>NW_019172950.1 Kuraishia capsulata CBS 1993 genomic scaffold, Kuraishia_capsulata_scaffold_1, whole genome shotgun sequence
+GCF_000585515.1_Clad_yegr_CBS_114405_V1_genomic.fna.gz:>NW_006913045.1 Cladophialophora yegresii CBS 114405 aczIN-supercont1.1, whole genome shotgun sequence
+GCF_000585535.1_Clad_psam_CBS_110553_V1_genomic.fna.gz:>NW_006912922.1 Cladophialophora psammophila CBS 110553 aczJe-supercont1.1, whole genome shotgun sequence
+GCF_000585565.1_Capr_epim_CBS_606_96_V1_genomic.fna.gz:>NW_006912904.1 Capronia epimyces CBS 606.96 aczIQ-supercont1.1, whole genome shotgun sequence
+GCF_000585585.1_Capr_coro_CBS_617_96_V1_genomic.fna.gz:>NW_006912893.1 Capronia coronata CBS 617.96 acBCG-supercont1.1, whole genome shotgun sequence
+GCF_000708205.1_Mixia_osmundae_v1.0_genomic.fna.gz:>NW_014575563.1 Mixia osmundae IAM 14324 unplaced genomic scaffold scaffold_1, whole genome shotgun sequence
+GCF_000709125.1_Exop_aqua_CBS_119918_V1_genomic.fna.gz:>NW_013550587.1 Exophiala aquamarina CBS 119918 chromosome Unknown aczIA-supercont1.1, whole genome shotgun sequence
+GCF_000711695.1_Tilletiaria_anomala_UBC_951_v1.0_genomic.fna.gz:>NW_013547021.1 Tilletiaria anomala UBC 951 chromosome Unknown K437scaffold_1, whole genome shotgun sequence
+GCF_000721755.1_Aureobasidium_pullulans_var._subglaciale_EXF-2481_v1.0_genomic.fna.gz:>NW_013566995.1 Aureobasidium subglaciale EXF-2481 unplaced genomic scaffold scaffold_0, whole genome shotgun sequence
+GCF_000721765.1_Aureobasidium_pullulans_var._namibiae_CBS_147.97_v1.0_genomic.fna.gz:>NW_013581208.1 Aureobasidium namibiae CBS 147.97 unplaced genomic scaffold scaffold_1, whole genome shotgun sequence
+GCF_000732125.1_ScApio1.0_genomic.fna.gz:>NW_015971702.1 Scedosporium apiospermum strain IHEM 14462 chromosome Unknown SEQ_SAPIO_0001, whole genome shotgun sequence
+GCF_000747765.1_ASM74776v1_genomic.fna.gz:>NW_014638813.1 Moesziomyces antarcticus DNA, scaffold: scaffold_v10197, strain JCM 10317, whole genome shotgun sequence
+GCF_000760515.1_UGP1.0_genomic.fna.gz:>NW_013546732.1 Mitosporidium daphniae strain UGP3 chromosome Unknown contig-100, whole genome shotgun sequence
+GCF_000769745.1_ASM76974v1_genomic.fna.gz:>NW_015971303.1 Penicillium expansum strain MD-8 chromosome Unknown contig1, whole genome shotgun sequence
+GCF_000803265.1_ASM80326v1_genomic.fna.gz:>NW_014575407.1 Ordospora colligata OC4 chromosome Unknown contig_01, whole genome shotgun sequence
+GCF_000814965.1_MBR_1.0_genomic.fna.gz:>NW_014574716.1 Metarhizium brunneum ARSEF 3297 chromosome Unknown scaffold_1, whole genome shotgun sequence
+GCF_000835455.1_Fons_pedr_CBS_271_37_V1_genomic.fna.gz:>NW_013550615.1 Fonsecaea pedrosoi CBS 271.37 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000835475.1_Clad_bant_CBS_173_52_V1_genomic.fna.gz:>NW_015971575.1 Cladophialophora bantiana CBS 173.52 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000835495.1_Clad_immu_CBS83496_V1_genomic.fna.gz:>NW_015622541.1 Cladophialophora immunda strain CBS 83496 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000835505.1_Exop_xeno_CBS118157_V1_genomic.fna.gz:>NW_013562494.1 Exophiala xenobiotica strain CBS 118157 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000835515.1_Exop_olig_CBS72588_V1_genomic.fna.gz:>NW_015622818.1 Exophiala oligosperma strain CBS 72588 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000835555.1_Rhin_mack_CBS_650_93_V1_genomic.fna.gz:>NW_013550604.1 Rhinocladiella mackenziei CBS 650.93 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000836115.1_Exop_spin_CBS89968_V1_genomic.fna.gz:>NW_015622513.1 Exophiala spinifera strain CBS 89968 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000836275.1_Exop_meso_CBS40295_V1_genomic.fna.gz:>NW_015622504.1 Exophiala mesophila strain CBS 40295 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000836295.1_O_gall_CBS43764_genomic.fna.gz:>NW_015622137.1 Verruconis gallopava strain CBS 43764 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000836435.1_Fons_mult_CBS_102226_V1_genomic.fna.gz:>NW_015971635.1 Fonsecaea multimorphosa CBS 102226 unplaced genomic scaffold supercont1.1, whole genome shotgun sequence
+GCF_000938715.1_LALA0_genomic.fna.gz:>NW_019212879.1 Lachancea lanzarotensis genome assembly LALA0, scaffold LALA0S01, whole genome shotgun sequence
+GCF_000961545.1_S_schenckii_v1_genomic.fna.gz:>NW_015971139.1 Sporothrix schenckii 1099-18 chromosome Unknown Cont38, whole genome shotgun sequence
+GCF_000968595.1_ASM96859v1_genomic.fna.gz:>NW_013563356.1 Rasamsonia emersonii CBS 393.64 chromosome Unknown ctg1118621759653, whole genome shotgun sequence
+GCF_000988165.1_ASM98816v1_genomic.fna.gz:>NW_020169296.1 Nosema ceranae strain PA08 1199 chromosome Unknown NODE_1, whole genome shotgun sequence
+GCF_001027345.1_Triol1_genomic.fna.gz:>NW_017264954.1 Cutaneotrichosporon oleaginosus strain IBC0246 unplaced genomic scaffold CC85scaffold_1, whole genome shotgun sequence
+GCF_001204775.1_ASM120477v1_genomic.fna.gz:>NW_015378056.1 Aspergillus nomius NRRL 13137 chromosome Unknown contig00001, whole genome shotgun sequence
+GCF_001278385.1_MalaPachy_genomic.fna.gz:>NW_017253138.1 Malassezia pachydermatis strain CBS 1879 chromosome Unknown scaffold1, whole genome shotgun sequence
+GCF_001298625.1_SEUB3.0_genomic.fna.gz:>NC_030976.1 Saccharomyces eubayanus strain FM1318 chromosome I, whole genome shotgun sequence
+GCF_001299255.1_ASM129925v1_genomic.fna.gz:>NW_017253229.1 Phialophora attae strain CBS 131958 chromosome Unknown Contig1, whole genome shotgun sequence
+GCF_001329695.1_Rhoba1_1_genomic.fna.gz:>NW_017264928.1 Rhodotorula graminis WP1 unplaced genomic scaffold RHOBAscaffold_1, whole genome shotgun sequence
+GCF_001417885.1_Kmar_1.0_genomic.fna.gz:>NC_036025.1 Kluyveromyces marxianus DMKU3-1042 DNA, complete genome, chromosome 1
+GCF_001447935.1_debFab1.0_genomic.fna.gz:>NW_015385427.1 Debaryomyces fabryi strain CBS 789 chromosome Unknown contig00001, whole genome shotgun sequence
+GCF_001477535.1_Pneu_jiro_RU7_V2_genomic.fna.gz:>NW_017264775.1 Pneumocystis jirovecii RU7 chromosome Unknown supercont1.1, whole genome shotgun sequence
+GCF_001477545.1_Pneu_cari_B80_V3_genomic.fna.gz:>NW_017264713.1 Pneumocystis carinii B80 chromosome Unknown supercont1.1, whole genome shotgun sequence
+GCF_001481775.2_TGAM01v2_genomic.fna.gz:>NW_020171338.1 Trichoderma gamsii strain T6085 chromosome Unknown Scaffold_1.2, whole genome shotgun sequence
+GCF_001500285.1_Phisc1_genomic.fna.gz:>NW_017263581.1 Phialocephala scopiformis strain CBS 120377 unplaced genomic scaffold LY89scaffold_1, whole genome shotgun sequence
+GCF_001548555.1_ASM154855v1_genomic.fna.gz:>NC_030893.1 Eremothecium sinecaudum strain ATCC 58844 chromosome II, complete sequence
+GCF_001619985.1_Xylona_heveae_TC161_v1.0_genomic.fna.gz:>NW_017264193.1 Xylona heveae TC161 unplaced genomic scaffold L228scaffold_1, whole genome shotgun sequence
+GCF_001636725.1_ISF_1.0_genomic.fna.gz:>NW_017387301.1 Cordyceps fumosorosea ARSEF 2679 chromosome Unknown scaffold_1, whole genome shotgun sequence
+GCF_001638985.1_Phybl2_genomic.fna.gz:>NW_017265134.1 Phycomyces blakesleeanus NRRL 1555(-) unplaced genomic scaffold PHYBLscaffold_1, whole genome shotgun sequence
+GCF_001640025.1_ASM164002v2_genomic.fna.gz:>NC_031672.1 Sugiyamaella lignohabitans strain CBS 10342 chromosome A, complete sequence
+GCF_001641265.1_ASM164126v1_genomic.fna.gz:>NW_020167520.1 Pseudogymnoascus destructans isolate 20631-21 unplaced genomic scaffold scaffold_1, whole genome shotgun sequence
+GCF_001642045.1_Parsp1_genomic.fna.gz:>NW_017253360.1 Paraphaeosphaeria sporulosa strain AP3s5-JAC2a unplaced genomic scaffold CC84scaffold_1, whole genome shotgun sequence
+GCF_001642055.1_Altal1_genomic.fna.gz:>NW_017306190.1 Alternaria alternata strain SRC1lrK2f unplaced genomic scaffold CC77scaffold_1, whole genome shotgun sequence
+GCF_001642475.1_ASM164247v1_genomic.fna.gz:>NW_019173932.1 Fonsecaea monophora strain CBS 269.37 chromosome Unknown Scaff1, whole genome shotgun sequence
+GCF_001646965.1_ASM164696v1_genomic.fna.gz:>NW_019173674.1 Fonsecaea nubica strain CBS 269.64 chromosome Unknown Scaff1, whole genome shotgun sequence
+GCF_001651985.1_ASM165198v1_genomic.fna.gz:>NW_017387244.1 Fonsecaea erecta strain CBS 125763 chromosome Unknown Scaff1, whole genome shotgun sequence
+GCF_001653235.2_ASM165323v2_genomic.fna.gz:>NC_035790.1 Pochonia chlamydosporia 170 chromosome 1, whole genome shotgun sequence
+GCF_001653265.1_ASM165326v1_genomic.fna.gz:>NW_017264030.1 Purpureocillium lilacinum isolate PLFJ-1 chromosome Unknown scaffold00001, whole genome shotgun sequence
+GCF_001661235.1_Picme2_genomic.fna.gz:>NW_017566982.1 Pichia membranifaciens NRRL Y-2026 unplaced genomic scaffold PICMEscaffold_1, whole genome shotgun sequence
+GCF_001661255.1_Wican1_genomic.fna.gz:>NW_017567110.1 Wickerhamomyces anomalus NRRL Y-366-8 unplaced genomic scaffold WICANscaffold_1, whole genome shotgun sequence
+GCF_001661265.1_Saico1_genomic.fna.gz:>NW_017566992.1 Saitoella complicata NRRL Y-17804 unplaced genomic scaffold SAICOscaffold_1, whole genome shotgun sequence
+GCF_001661335.1_Babin1_genomic.fna.gz:>NW_017566838.1 Babjeviella inositovora NRRL Y-12698 unplaced genomic scaffold BABINscaffold_1, whole genome shotgun sequence
+GCF_001661345.1_Ascru1_genomic.fna.gz:>NW_017962913.1 Ascoidea rubescens DSM 1968 unplaced genomic scaffold ASCRUscaffold_1, whole genome shotgun sequence
+GCF_001661395.1_Hypbu1_genomic.fna.gz:>NW_017963728.1 Hyphopichia burtonii NRRL Y-1933 unplaced genomic scaffold HYPBUscaffold_1, whole genome shotgun sequence
+GCF_001661405.1_Cybja1_genomic.fna.gz:>NW_017963652.1 Cyberlindnera jadinii NRRL Y-1542 unplaced genomic scaffold CYBJAscaffold_1, whole genome shotgun sequence
+GCF_001661415.1_Canta1_genomic.fna.gz:>NW_017963636.1 Candida tanzawaensis NRRL Y-17324 unplaced genomic scaffold CANTAscaffold_1, whole genome shotgun sequence
+GCF_001662655.1_ASM166265v1_genomic.fna.gz:>NW_017263652.1 Pseudogymnoascus verrucosus strain UAMH 10579 unplaced genomic scaffold scaffold_1, whole genome shotgun sequence
+GCF_001664035.1_Metbi1_genomic.fna.gz:>NW_017387731.1 Metschnikowia bicuspidata var. bicuspidata NRRL YB-4993 chromosome Unknown METBIscaffold_1, whole genome shotgun sequence
+GCF_001664045.1_Hanpo2_genomic.fna.gz:>NW_017264698.1 Ogataea polymorpha strain NCYC 495 leu1.1 chromosome Unknown OGAPOscaffold_1, whole genome shotgun sequence
+GCF_001672515.1_ASM167251v1_genomic.fna.gz:>NC_030954.1 Colletotrichum higginsianum IMI 349063 chromosome 1, whole genome shotgun sequence
+GCF_001720155.1_Tsuc_wing_CBS7118_V1_genomic.fna.gz:>NW_017567027.1 Tsuchiyaea wingfieldii CBS 7118 chromosome Unknown supercont1.1, whole genome shotgun sequence
+GCF_001720205.1_Cryp_amyl_CBS6039_V3_genomic.fna.gz:>NW_017566887.1 Cryptococcus amylolentus CBS 6039 chromosome Unknown supercont1.1, whole genome shotgun sequence
+GCF_001773325.1_ASM177332v1_genomic.fna.gz:>NW_019173278.1 Penicillium arizonense strain CBS 141311 chromosome Unknown PENARI_contig001, whole genome shotgun sequence
+GCF_001792695.1_ASM179269v1_genomic.fna.gz:>NW_019170003.1 Aspergillus bombycis strain NRRL26010 chromosome Unknown contig00001, whole genome shotgun sequence
+GCF_001831195.1_CORC01_genomic.fna.gz:>NW_019172957.1 Colletotrichum orchidophilum strain IMI 309357 chromosome Unknown Scaffold_1.1, whole genome shotgun sequence
+GCF_001883845.1_ASM188384v1_genomic.fna.gz:>NW_017971480.1 Diplodia corticola strain CBS 112549 chromosome Unknown scaffold1, whole genome shotgun sequence
+GCF_001890105.1_Aspzo1_genomic.fna.gz:>NW_019208911.1 Penicilliopsis zonata CBS 506.65 unplaced genomic scaffold ASPZOscaffold_1, whole genome shotgun sequence
+GCF_001890805.1_Aspgl1_genomic.fna.gz:>NW_019170453.1 Aspergillus glaucus CBS 516.65 unplaced genomic scaffold ASPGLscaffold_1, whole genome shotgun sequence
+GCF_001890905.1_Aspac1_genomic.fna.gz:>NW_017962976.1 Aspergillus aculeatus ATCC 16872 unplaced genomic scaffold ASPACscaffold_1, whole genome shotgun sequence
+GCF_001907595.1_ASM190759v1_genomic.fna.gz:>NW_017971432.1 Talaromyces atroroseus strain IBT 11181 chromosome Unknown scaffold_0, whole genome shotgun sequence
+GCF_002102565.1_Kocim1_genomic.fna.gz:>NW_019028941.1 Kockovaella imperatae strain NRRL Y-17943 chromosome Unknown BD324scaffold_1, whole genome shotgun sequence
+GCF_002105155.1_Lobtra1_genomic.fna.gz:>NW_019028979.1 Lobosporangium transversale strain NRRL 3116 chromosome Unknown BCR41scaffold_1, whole genome shotgun sequence
+GCF_002117355.1_PosplRSB12_1_genomic.fna.gz:>NW_020169832.1 Postia placenta MAD-698-R-SB12 unplaced genomic scaffold POSPLAscaffold_1, whole genome shotgun sequence
+GCF_002237265.1_ASM223726v2_genomic.fna.gz:>NW_020798048.1 Aspergillus thermomutatus strain HMR AF 39 chromosome Unknown NODE_1, whole genome shotgun sequence
+GCF_002251995.1_ASM225199v2_genomic.fna.gz:>NW_020193984.1 Wickerhamiella sorbophila strain DS02 chromosome Unknown contig1, whole genome shotgun sequence
+GCF_002708625.1_Rhimi1_1_genomic.fna.gz:>NW_019671916.1 Rhizopus microsporus ATCC 52813 unplaced genomic scaffold scaffold_1, whole genome shotgun sequence
+GCF_002742065.1_CB0940_V2_genomic.fna.gz:>NC_036770.1 Cercospora beticola strain 09-40 chromosome 1, whole genome shotgun sequence
+GCF_002775015.1_Cand_auris_B11221_V1_genomic.fna.gz:>NW_021640165.1 [Candida] auris strain B11221 chromosome Unknown scaffold00001, whole genome shotgun sequence
+GCF_002847045.1_Aspcand1_genomic.fna.gz:>NW_020194006.1 Aspergillus candidus strain CBS 102.13 unplaced genomic scaffold BDW47scaffold_1, whole genome shotgun sequence
+GCF_002847465.1_Aspnov1_genomic.fna.gz:>NW_020194274.1 Aspergillus novofumigatus IBT 16806 chromosome Unknown P174scaffold_1, whole genome shotgun sequence
+GCF_002847485.1_Aspcam1_genomic.fna.gz:>NW_020194336.1 Aspergillus campestris IBT 28561 chromosome Unknown P168scaffold_1, whole genome shotgun sequence
+GCF_002849105.1_Aspste1_genomic.fna.gz:>NW_020194398.1 Aspergillus steynii IBT 23096 chromosome Unknown P170scaffold_1, whole genome shotgun sequence
+GCF_002865645.1_Melbi2_genomic.fna.gz:>NW_020194503.1 Meliniomyces bicolor E unplaced genomic scaffold K444scaffold_1, whole genome shotgun sequence
+GCF_002926055.2_CanHae_1.0_genomic.fna.gz:>NW_020289906.1 [Candida] haemulonis strain B11899 chromosome Unknown A_2014730914, whole genome shotgun sequence
+GCF_002926085.2_CanDuoHae_v1.0_genomic.fna.gz:>NW_020289901.1 [Candida] duobushaemulonis strain B09383 chromosome Unknown A_B09383, whole genome shotgun sequence
+GCF_003013735.1_Cand_pseudohaemulonii_B12108_genomic.fna.gz:>NW_020194435.1 [Candida] pseudohaemulonis strain B12108 chromosome Unknown scaffold00001, whole genome shotgun sequence
+GCF_003019875.1_Amore1_genomic.fna.gz:>NW_020194471.1 Amorphotheca resinae ATCC 22711 unplaced genomic scaffold M430scaffold_1, whole genome shotgun sequence
+GCF_003025095.1_Triha_v1.0_genomic.fna.gz:>NW_020209249.1 Trichoderma harzianum CBS 226.95 unplaced genomic scaffold M431scaffold_1, whole genome shotgun sequence
+GCF_003025105.1_Trias_v._1.0_genomic.fna.gz:>NW_020208830.1 Trichoderma asperellum CBS 433.97 unplaced genomic scaffold M441scaffold_1, whole genome shotgun sequence
+GCF_003025115.1_Trici_v4.0_genomic.fna.gz:>NW_020194709.1 Trichoderma citrinoviride strain TUCIM 6016 unplaced genomic scaffold BBK36scaffold_1, whole genome shotgun sequence
+GCF_003054445.1_ASM305444v1_genomic.fna.gz:>NC_042506.1 Pichia kudriavzevii chromosome 1, complete sequence
+GCF_003144115.1_Tilwa1_genomic.fna.gz:>NW_020311998.1 Tilletiopsis washingtonensis strain MCA 4186 unplaced genomic scaffold FA09scaffold_1, whole genome shotgun sequence
+GCF_003144135.1_Rhodsp1_genomic.fna.gz:>NW_020289913.1 Pseudomicrostroma glucosiphilum strain MCA 4718 unplaced genomic scaffold BCV69scaffold_1, whole genome shotgun sequence
+GCF_003144195.1_Cersp1_genomic.fna.gz:>NW_020289996.1 Ceraceosorus guamensis strain MCA 4658 unplaced genomic scaffold IE81scaffold_1, whole genome shotgun sequence
+GCF_003144205.1_Meimi1_genomic.fna.gz:>NW_020289943.1 Meira miltonrushii strain MCA 3882 unplaced genomic scaffold FA14scaffold_1, whole genome shotgun sequence
+GCF_003144245.1_Jamsp1_genomic.fna.gz:>NW_020289975.1 Jaminaea rosea strain MCA 5214 unplaced genomic scaffold BDZ90scaffold_1, whole genome shotgun sequence
+GCF_003144295.1_Acain1_genomic.fna.gz:>NW_020290247.1 Acaromyces ingoldii strain MCA 4198 unplaced genomic scaffold FA10scaffold_1, whole genome shotgun sequence
+GCF_003184525.1_Aspscl1_genomic.fna.gz:>NW_020290991.1 Aspergillus sclerotioniger CBS 115572 chromosome Unknown BO94scaffold_1, whole genome shotgun sequence
+GCF_003184535.1_Aspeuc1_genomic.fna.gz:>NW_020290275.1 Aspergillus eucalypticola CBS 122712 chromosome Unknown BO83scaffold_1, whole genome shotgun sequence
+GCF_003184545.1_Asphet1_genomic.fna.gz:>NW_020290406.1 Aspergillus heteromorphus CBS 117.55 chromosome Unknown BO70scaffold_1, whole genome shotgun sequence
+GCF_003184585.1_Aspsac1_genomic.fna.gz:>NW_020290611.1 Aspergillus saccharolyticus JOP 1030-1 unplaced genomic scaffold BP01scaffold_1, whole genome shotgun sequence
+GCF_003184595.1_Asplac1_genomic.fna.gz:>NW_020290884.1 Aspergillus lacticoffeatus CBS 101883 unplaced genomic scaffold BO96scaffold_1, whole genome shotgun sequence
+GCF_003184625.1_Aspneo1_genomic.fna.gz:>NW_020291129.1 Aspergillus neoniger CBS 115656 unplaced genomic scaffold BO87scaffold_1, whole genome shotgun sequence
+GCF_003184695.1_Aspbru1_genomic.fna.gz:>NW_020290731.1 Aspergillus brunneoviolaceus CBS 621.78 unplaced genomic scaffold BO95scaffold_1, whole genome shotgun sequence
+GCF_003184745.1_Aspuva1_genomic.fna.gz:>NW_020291298.1 Aspergillus uvarum CBS 121591 unplaced genomic scaffold BO82scaffold_1, whole genome shotgun sequence
+GCF_003184755.1_Asppip1_genomic.fna.gz:>NW_020291591.1 Aspergillus piperis CBS 112811 unplaced genomic scaffold BO85scaffold_1, whole genome shotgun sequence
+GCF_003184765.1_Aspacu1_genomic.fna.gz:>NW_020291470.1 Aspergillus aculeatinus CBS 121060 unplaced genomic scaffold BO66scaffold_1, whole genome shotgun sequence
+GCF_003184785.1_Aspjap1_genomic.fna.gz:>NW_020291638.1 Aspergillus japonicus CBS 114.51 unplaced genomic scaffold BO86scaffold_1, whole genome shotgun sequence
+GCF_003184835.1_Aspcos1_genomic.fna.gz:>NW_020291801.1 Aspergillus costaricaensis CBS 115574 unplaced genomic scaffold BO79scaffold_1, whole genome shotgun sequence
+GCF_003184845.1_Aspibe1_genomic.fna.gz:>NW_020292099.1 Aspergillus ibericus CBS 121593 unplaced genomic scaffold BO80scaffold_1, whole genome shotgun sequence
+GCF_003184865.1_Asphom1_genomic.fna.gz:>NW_020291887.1 Aspergillus homomorphus CBS 101889 unplaced genomic scaffold BO97scaffold_1, whole genome shotgun sequence
+GCF_003184925.1_Aspvad1_genomic.fna.gz:>NW_020292039.1 Aspergillus vadensis CBS 113365 unplaced genomic scaffold BO88scaffold_1, whole genome shotgun sequence
+GCF_003290485.1_ASM329048v1_genomic.fna.gz:>NC_040193.1 Malassezia restricta chromosome I, complete sequence
+GCF_003327735.1_ASM332773v1_genomic.fna.gz:>NW_020797858.1 Candida viswanathii strain ATCC 20962 chromosome Unknown contig1, whole genome shotgun sequence
+GCF_003344945.1_Aspwel1_genomic.fna.gz:>NW_020798695.1 Aspergillus welwitschiae strain CBS 139.54b unplaced genomic scaffold BDQ94scaffold_1, whole genome shotgun sequence
+GCF_003369625.1_ASM336962v1_genomic.fna.gz:>NW_020797888.1 Aspergillus mulundensis strain DSM 5745 chromosome Unknown scaffold_0, whole genome shotgun sequence
+GCF_003711515.1_Sodal1_genomic.fna.gz:>NW_021167079.1 Sodiomyces alkalinus F11 unplaced genomic scaffold SODALscaffold_1, whole genome shotgun sequence
+GCF_003724135.1_ASM372413v1_genomic.fna.gz:>NW_021167226.1 Verticillium nonalfalfae strain VnAa140 chromosome Unknown scaffold_1, whole genome shotgun sequence
+GCF_003851025.1_SCP_1.1_genomic.fna.gz:>NW_020939747.1 Sparassis crispa DNA, contig_000000F, whole genome shotgun sequence
+GCF_003942205.1_ASM394220v1_genomic.fna.gz:>NW_021167108.1 Apiotrichum porosum strain DSM 27194 chromosome Unknown scaffold_1, whole genome shotgun sequence
+GCF_004022145.1_Paevar1_genomic.fna.gz:>NW_021167140.1 Byssochlamys spectabilis strain CBS 101075 chromosome Unknown C8Q69scaffold_1, whole genome shotgun sequence
+GCF_004154835.1_ASM415483v1_genomic.fna.gz:>NW_021167856.1 Alternaria arborescens strain FERA 675 chromosome Unknown contig_1, whole genome shotgun sequence
+GCF_900007375.1_ASM90000737v1_genomic.fna.gz:>NC_038012.1 Fusarium venenatum strain A3/5 genome assembly, chromosome: I
+GCF_900074925.1_version_1_genomic.fna.gz:>NW_019716331.1 Ramularia collo-cygni strain URUG2 genome assembly, contig: RCC_scaffold77, whole genome shotgun sequence
+GCF_900079805.1_Fusarium_fujikuroi_IMI58289_V2_genomic.fna.gz:>NC_036622.1 Fusarium fujikuroi IMI 58289 draft genome, chromosome FFUJ_chr01
